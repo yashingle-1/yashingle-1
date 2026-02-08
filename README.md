@@ -42,7 +42,7 @@
 ## 📦 My Repositories
 
 <p align="center">
-  <a href="https://github.com/yashingle?tab=repositories">
+  <a href="https://github.com/yashingle-1?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
