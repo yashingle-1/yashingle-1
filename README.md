@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:yashringle.27@gmail.com">
+<a href="mailto:yashinglelive@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
