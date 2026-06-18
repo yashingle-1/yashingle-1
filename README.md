@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Ingle</h1>
-<h3 align="center">MS in Computer Science (Artificial Intelligence) @University of Leeds | Graduate ML & Software Engineer | Google DSC Technical Lead ’22 | Turning ideas into solutions that make communities stronger</h3>
+<h3 align="center">MS in Computer Science (Artificial Intelligence) @University of Leeds | ML Engineer · AI Engineer | Google DSC Technical Lead ’22 | Turning ideas into solutions that make communities stronger</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:yashinglelive@gmail.com">
+<a href="mailto:yashringle42@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -34,7 +34,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,typescript,react,nextjs,nodejs,fastapi,pytorch,tensorflow,postgresql,mysql,mongodb,redis,aws,azure,gcp,docker,kubernetes,terraform,githubactions,prometheus,grafana&perline=10" width="500"/>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,react,nextjs,nodejs,fastapi,pytorch,tensorflow,postgresql,mysql,mongodb,redis,aws,azure,gcp,docker,kubernetes,terraform,githubactions,prometheus,grafana&perline=10" width="500"/>
 </p>
 
 ---
